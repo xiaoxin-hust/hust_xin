@@ -1,2 +1,2 @@
 # hust_xin
-just something 
+just something boring 
